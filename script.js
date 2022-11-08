@@ -132,10 +132,6 @@ botonAgregar = () =>{
   }else{
     alert("Excedió el número de Alumnos.")
   }
-  if (contSence <= 15){
-    console.log(contSence)
-  }
-
 }
 
 //Función botón Limpiar
